@@ -46,6 +46,8 @@ Next and hopefully final version will follow up soon.<br/>
 
 
 [Link to the original speeduino project](https://www.speeduino.com "speeduino homepage")<br/>
+
+[Link to the speeduino forum post](https://speeduino.com/forum/viewtopic.php?t=2900<br/>
 <br/>
 Quick link to Rev0.1.9 schematic: https://github.com/oelprinz-org/BlitzboxBL49sp/blob/master/hardware/Rev0.1.9/schematics_blitzbox_v0.1.9.pdf <br/>
 
